@@ -1,0 +1,6 @@
+.Scroll{
+    overflow-y: scroll;
+}
+.Scroll::-webkit-scrollbar{
+    display: none;
+}
